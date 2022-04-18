@@ -1,0 +1,14 @@
+.input {
+  max-width:90%;
+    height: 60px;
+    border-radius: 50px;
+    margin-bottom:25px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    box-shadow: 1px 1px 1px 1px white;
+  }

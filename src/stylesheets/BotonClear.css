@@ -1,0 +1,17 @@
+.btnclear{
+    display: flex;
+    font-size: 1.2rem;
+    justify-content: center;
+    padding: 15px 35px 15px 35px;
+    border: 2px solid white;
+    margin:15px auto;
+    border-radius: 45px;
+    color:white;
+    background-color: #ac0246;
+    cursor:pointer;
+}
+
+.btnclear:hover,
+.btnclear:active{
+    background-color: #ebb000;
+}

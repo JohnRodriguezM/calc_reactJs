@@ -1,0 +1,31 @@
+.fila-calculadora{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto;
+    justify-content:center;
+    align-items:center;
+    gap:20px;
+}
+
+
+.boton-contenedor{
+    min-width: 35px;
+    max-width: 100%;
+    height:50px;
+    background-color: #1b1b32;
+    cursor:pointer;
+    user-select:none;
+    color:white;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.boton-contenedor:hover{
+    background-color: #5a01a7;
+}
+.operador{
+    background-color: #00471b;
+}
+.operador:hover{
+    background-color:#ff6600;
+}
